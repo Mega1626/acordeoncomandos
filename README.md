@@ -19,3 +19,4 @@
 ### Pull request: Petición que se hace de manera grupal para que todos los colaboradores estén de acuerdo con los cambios que alguien haga.
 
 ### Issue: 
+issue.png
