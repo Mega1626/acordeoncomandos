@@ -16,6 +16,6 @@
 
 ### git branch: Copia del repositorio principal para hacer cambios especificos sin afectar al principal.
 
-### Pull request:
+### Pull request: Petición que se hace de manera grupal para que todos los colaboradores estén de acuerdo con los cambios.
 
 ### Issue: 
