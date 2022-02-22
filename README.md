@@ -20,4 +20,4 @@
 
 ### Issue: 
 
-![Issue de la pratica](https://github.com/Mega1626/acordeoncomandos/blob/c5b311215f2026d66fd9b535cca9d8b8248aaef5/issue2.png)
+![Issue de la pratica](https://github.com/Mega1626/acordeoncomandos/blob/c5b311215f2026d66fd9b535cca9d8b8248aaef5/issue.png)
