@@ -6,8 +6,10 @@
 
 ### git checkout: Muestra en que branch se esta trabajando, y al agregarle el nombre de otro branch nos cambia el espacio de trabajo a ese mismo. 
 
-### git init: crea un nuevo repositorio.
+### git init: Crea un nuevo repositorio.
 
 ### git push: Sube los cambios del repositorio local al remoto.
 
-### git status: Muestra los detalles del branch actual, como actualizaciones, eliminaciones de archivos, etc.
+### git status: Nos indica si hay archivos que falte subir y de actualizar.
+
+### git add: Agrega cualquier archivo al repositorio.
