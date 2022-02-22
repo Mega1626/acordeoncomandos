@@ -18,5 +18,4 @@
 
 ### Pull request: Petición que se hace de manera grupal para que todos los colaboradores estén de acuerdo con los cambios que alguien haga.
 
-### Issue: 
-issue.png
+### Issue: Es un apartado dentro de github que nos permite mejorar nuestro repositorio a base de comentarios que otras personas hagan acerca de nuestro proyecto. Nosotros podemos acceder y responder el Issue, en dado caso que si, se le puede asignar a uno o a varios integrantes del equipo a resolver dicho issue, y en dado caso de que no, simplemente se cierra el issue.
