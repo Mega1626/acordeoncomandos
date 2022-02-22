@@ -9,3 +9,5 @@
 ### git init: crea un nuevo repositorio.
 
 ### git push: Sube los cambios del repositorio local al remoto.
+
+### git status: Muestra los detalles del branch actual, como actualizaciones, eliminaciones de archivos, etc.
