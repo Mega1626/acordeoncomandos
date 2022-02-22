@@ -15,3 +15,7 @@
 ### git add: Agrega cualquier archivo al repositorio.
 
 ### git branch: Copia del repositorio principal para hacer cambios especificos sin afectar al principal.
+
+### Pull request:
+
+### Issue: 
