@@ -19,4 +19,5 @@
 ### Pull request: Petición que se hace de manera grupal para que todos los colaboradores estén de acuerdo con los cambios que alguien haga.
 
 ### Issue: 
-https://github.com/Mega1626/acordeoncomandos/blob/c5b311215f2026d66fd9b535cca9d8b8248aaef5/issue.png
+
+![Issue de la pratica](https://github.com/Mega1626/acordeoncomandos/blob/c5b311215f2026d66fd9b535cca9d8b8248aaef5/issue.png)
