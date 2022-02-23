@@ -23,5 +23,5 @@
 #### Issue de unas correcciones a una pagina web, donde se asigan a quienes haran los cambios, una etiqueta para el issue y un mensaje de que se tendran en cuenta las sugerencias para proximos cambios.
 ![Issue de la pratica](https://github.com/Mega1626/acordeoncomandos/blob/c5b311215f2026d66fd9b535cca9d8b8248aaef5/issue.png)
 
-#### Despues de realizar los cambios con el Pull request se notifica que ya se realizaron los cambios y se puede cerrar el issue o se puede esperar a la aceptación de los cambios para cerrar el issue.
+#### Despues de realizar los cambios con el Pull request se notifica que ya se realizaron los cambios y se puede cerrar el issue o se puede esperar a la aceptación de los cambios para cerrarlo.
 ![Issue de la pratica2](https://github.com/Mega1626/acordeoncomandos/blob/ac9be1e92fa42c6066ac43e0b743a8e99791c9b4/issue2.png)
